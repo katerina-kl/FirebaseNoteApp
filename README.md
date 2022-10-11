@@ -1,6 +1,6 @@
 # Notes App connected to firebase
 
-# The user can add, update or delete data, login, sign up , logout
+#The user can add, update or delete data, login, sign up , logout
 
 #Code written in JAVA 
 
